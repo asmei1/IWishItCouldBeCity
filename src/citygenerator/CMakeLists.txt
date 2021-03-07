@@ -6,7 +6,5 @@ target_compile_features(CityGenerator INTERFACE cxx_std_20)
 
 target_link_libraries(
 	CityGenerator
-	PRIVATE
-			NVBEngine
-			spdlog::spdlog
-	)
+	PRIVATE	NVBEngine
+)

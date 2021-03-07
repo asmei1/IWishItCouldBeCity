@@ -1,3 +1,9 @@
-[submodule "src/external/spdlog"]
-	path = src/external/spdlog
+[submodule "src/nvbengine/external/glfw"]
+	path = src/nvbengine/external/glfw
+	url = https://github.com/glfw/glfw
+[submodule "src/nvbengine/external/spdlog"]
+	path = src/nvbengine/external/spdlog
 	url = https://github.com/gabime/spdlog
+[submodule "src/nvbengine/external/glm"]
+	path = src/nvbengine/external/glm
+	url = https://github.com/g-truc/glm
